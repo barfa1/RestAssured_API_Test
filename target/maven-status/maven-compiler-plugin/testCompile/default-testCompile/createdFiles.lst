@@ -1,0 +1,9 @@
+restapi/GetRequest.class
+restapi/GetRequestWithParam.class
+restapi/PostRequestWithMap.class
+restapi/PostRequest.class
+restapi/DeleteRequest.class
+restapi/PutRequest.class
+restapi/PostRequestWithJsonObject.class
+restapi/PostCallWithJSONFile.class
+restapiChaining/EndToEndTest.class

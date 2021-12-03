@@ -1,0 +1,9 @@
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/GetRequest.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapiChaining/EndToEndTest.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/PostRequest.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/PostRequestWithJsonObject.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/PostCallWithJSONFile.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/PutRequest.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/GetRequestWithParam.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/PostRequestWithMap.java
+/home/svarfacisco/eclipse-workspace/RestAssured_Maven/src/test/java/restapi/DeleteRequest.java
